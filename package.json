@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/mehmetkose/react-websocket",
   "dependencies": {
-    "ws": "^1.1.1",
+    "ws": "1.0.1",
     "tls": "^0.0.1",
     "fs": "^0.0.2"
   },
