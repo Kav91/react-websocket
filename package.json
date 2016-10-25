@@ -34,7 +34,7 @@
   "homepage": "https://github.com/mehmetkose/react-websocket",
   "dependencies": {
     "ws": "1.1.1",
-    "tls": "^0.0.1",
+    "tls": "^0.0.1"
   },
   "devDependencies": {
     "babel-cli": "6.10.1",
